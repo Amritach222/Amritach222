@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://amrit-acharya.com.np](https://amrit-acharya.com.np)
 
+<a href="https://app.daily.dev/amritach"><img align="left" src="https://api.daily.dev/devcards/8196df76f2da4437be3059cf0998a45d.png?r=3tn" width="400" alt="Amrit Ach's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
